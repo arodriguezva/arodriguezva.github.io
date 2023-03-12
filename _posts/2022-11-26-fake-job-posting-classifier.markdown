@@ -3,7 +3,7 @@ layout: post
 title: Fake Job Posting Classifier
 date: 2022-11-26 13:32:20 +0300
 description: The Fake Job Posting Classifier is a machine learning project that aims to classify job postings as either genuine or fake. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: FakeJob/pexels-tim-gouw-52608.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
