@@ -5,7 +5,7 @@ date: 2022-11-26 13:32:20 +0300
 description: The Fake Job Posting Classifier is a machine learning project that aims to classify job postings as either genuine or fake. # Add post description (optional)
 img: FakeJob/pexels-tim-gouw-52608.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Machine Leaning, NLP]
 ---
 The Fake Job Posting Classifier is a machine learning project that aims to classify job postings as either genuine or fake. This project uses two popular algorithms, MultinomialNB and Passive Aggressive, to train and test a machine learning model that can accurately predict whether a job posting is legitimate or not.
 
