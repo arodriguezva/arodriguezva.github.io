@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   If you're interested in following my journey as a Machine Learning developer and Software Developer, be sure to check out my GitHub page. 
   You'll find some exciting projects there that demonstrate my skills and expertise in this field.
 permalink: ':title/'
-baseurl: "/arodriguezva.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/arodriguezva/arodriguezva.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
