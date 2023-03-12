@@ -3,7 +3,7 @@ layout: post
 title: From Software Developer to Machine Learning Analyst
 date: 2022-09-12 00:00:00 +0300
 description: If you're a software developer who wants to transition into machine learning, there are several steps you can take to make the move successfully. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: pexels-thisisengineering-3861969.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
